@@ -1,0 +1,80 @@
+<items>
+    <item>
+        <salesorder>700001</salesorder>
+        <customer>DE160000</customer>
+        <po>XX888</po>
+        <date>01072021</date>
+        <lineitem>10</lineitem>
+        <articleid>87774-5554</articleid>
+        <articledesc>sample desc1</articledesc>
+        <unitprice>44</unitprice>
+        <currency>USD</currency>
+        <qty>100</qty>
+        <sloc>DE01</sloc>
+    </item>
+    <item>
+        <salesorder>700001</salesorder>
+        <customer>DE160000</customer>
+        <po>XX888</po>
+        <date>01072021</date>
+        <lineitem>20</lineitem>
+        <articleid>87774-5552</articleid>
+        <articledesc>sample desc2</articledesc>
+        <unitprice>56</unitprice>
+        <currency>USD</currency>
+        <qty>180</qty>
+        <sloc>DE02</sloc>
+    </item>
+    <item>
+        <salesorder>700002</salesorder>
+        <customer>DE1200</customer>
+        <po>XX4442</po>
+        <date>01072021</date>
+        <lineitem>10</lineitem>
+        <articleid>87774-5554</articleid>
+        <articledesc>sample desc1</articledesc>
+        <unitprice>67</unitprice>
+        <currency>USD</currency>
+        <qty>100</qty>
+        <sloc>FR01</sloc>
+    </item>
+    <item>
+        <salesorder>700003</salesorder>
+        <customer>DE1400</customer>
+        <po>XX6662</po>
+        <date>01072021</date>
+        <lineitem>10</lineitem>
+        <articleid>87774-3333</articleid>
+        <articledesc>sample desc5</articledesc>
+        <unitprice>55</unitprice>
+        <currency>USD</currency>
+        <qty>110</qty>
+        <sloc>ES01</sloc>
+    </item>
+    <item>
+        <salesorder>700003</salesorder>
+        <customer>DE1400</customer>
+        <po>XX6662</po>
+        <date>01072021</date>
+        <lineitem>20</lineitem>
+        <articleid>87774-3335</articleid>
+        <articledesc>sample desc6</articledesc>
+        <unitprice>75</unitprice>
+        <currency>USD</currency>
+        <qty>130</qty>
+        <sloc>ES01</sloc>
+    </item>
+    <item>
+        <salesorder>700003</salesorder>
+        <customer>DE1400</customer>
+        <po>XX6662</po>
+        <date>01072021</date>
+        <lineitem>30</lineitem>
+        <articleid>87774-3399</articleid>
+        <articledesc>sample desc7</articledesc>
+        <unitprice>88</unitprice>
+        <currency>USD</currency>
+        <qty>240</qty>
+        <sloc>ES01</sloc>
+    </item>
+</items>
